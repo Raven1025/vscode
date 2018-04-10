@@ -24,7 +24,7 @@ def Coordinate_Input():
     print(coordinate_before)
     print(coordinate_after)
 
-    return n,coordinate_before,coordinate_after
+    return num,coordinate_before,coordinate_after
 
 if __name__=='__main__':
     Coordinate_Input()
