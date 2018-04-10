@@ -1,5 +1,5 @@
 #七参数的输入
-def Coordinate_Convert():
+def Coordinate_Input():
     coordinate_before=[]
     coordinate_after=[]
 
